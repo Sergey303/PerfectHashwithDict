@@ -1,14 +1,20 @@
 # PerfectHashwithDict
 
-   //максимальный код
-            var n = (int)(strings.Length * 100);
+  
+   
+            var n = (int)(strings.Length * 100); //максимальный код
+            
             var coded = new string[n];
+            
             var haveCodes = new bool[n];
+            
             Queue<string> withCollision=new Queue<string>();
             
             for (int i = 0; i < strings.Length; i++)
             {
-                var hash = strings[i].GetHash(); //string -> utf32 -> bytes -> modified Brensteinh hash -> bytes -> first 32 bits -> int
+                var hash = strings[i].GetHash(); 
+                
+                //string -> utf32 -> bytes -> modified Brensteinh hash -> bytes -> first 32 bits -> int
                 
                 var code = hash.GetCode(n); // hash % n
                 
