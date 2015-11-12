@@ -1,0 +1,12 @@
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\PerfectHashwithDict.exe.config
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\obj\Debug\PerfectHashwithDict.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\PerfectHashwithDict.exe
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\PerfectHashwithDict.pdb
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\System.Data.HashFunction.BernsteinHash.dll
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\System.Data.HashFunction.Core.dll
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\System.Data.HashFunction.Interfaces.dll
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\System.Data.HashFunction.BernsteinHash.xml
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\System.Data.HashFunction.Core.xml
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\bin\Debug\System.Data.HashFunction.Interfaces.xml
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\obj\Debug\PerfectHashwithDict.exe
+C:\Users\Admin\Source\Repos\next\PerfectHashwithDict\PerfectHashwithDict\obj\Debug\PerfectHashwithDict.pdb
